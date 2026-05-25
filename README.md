@@ -20,9 +20,10 @@ A simple handwritten digit classification project built using TensorFlow and Ker
 ```text
 MNIST-Digit-Classifier/
 │
-├── mnist_classifier.py
+├── MNIST Digit Classifier.py
 ├── requirements.txt
 └── README.md
+
 
 ```
 
