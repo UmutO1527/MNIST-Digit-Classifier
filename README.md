@@ -116,7 +116,8 @@ This project was created to understand:
 ## Author
 
 Developed by Umut
-AI & Engineering Student passionate about building intelligent systems from first principles.
+
+AI & Data Engineering Student passionate about building intelligent systems from first principles.
 
 ```
 
