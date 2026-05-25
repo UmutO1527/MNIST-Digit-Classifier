@@ -14,7 +14,6 @@ A simple handwritten digit classification project built using TensorFlow and Ker
 * Python
 * TensorFlow
 * Keras
-* NumPy
 * Matplotlib
 
 ## Project Structure
@@ -49,7 +48,6 @@ MNIST-Digit-Classifier/
 ```text
 tensorflow
 matplotlib
-numpy
 
 ```
 
@@ -116,7 +114,9 @@ This project was created to understand:
 
 ## Author
 
-**Umut**
+**Developed by Umut
+
+AI & Engineering Student passionate about building intelligent systems from first principles.**
 
 ```
 
