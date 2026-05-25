@@ -32,8 +32,8 @@ MNIST-Digit-Classifier/
 1. Clone the repository:
 
 ```bash
-   git clone 
-   cd mnist-digit-classifier
+   git clone https://github.com/UmutO1527/MNIST-Digit-Classifier.git
+   cd MNIST-Digit-Classifier
 
 ```
 
